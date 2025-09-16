@@ -1,18 +1,18 @@
 # Miasta
 
-This project is a simple HTML website showcasing various cities with images. It includes:
+Ten projekt to prosta strona internetowa HTML prezentująca różne miasta wraz z obrazami. Zawiera:
 
-- `index.html`: The main webpage.
-- `style.css`: Custom styles for the site.
-- `normalize.css`: CSS normalization for consistent rendering.
-- `images/`: Folder containing images of cities.
+- `index.html`: Główna strona internetowa.
+- `style.css`: Niestandardowe style dla strony.
+- `normalize.css`: Normalizacja CSS dla spójnego wyglądu.
+- `images/`: Folder zawierający obrazy miast.
 
-## How to Use
+## Jak używać
 
-1. Open `index.html` in your web browser to view the site.
-2. All images are stored in the `images` folder and referenced in the HTML file.
+1. Otwórz plik `index.html` w swojej przeglądarce internetowej, aby zobaczyć stronę.
+2. Wszystkie obrazy znajdują się w folderze `images` i są używane w pliku HTML.
 
-## Project Structure
+## Struktura projektu
 ```
 index.html
 normalize.css
@@ -26,8 +26,8 @@ images/
     Wencja.webp
 ```
 
-## Author
-- Przemek Radomski
+## Autor
+-Przemek Radomski
 
 ---
-Feel free to modify and expand the project as needed.
+Możesz dowolnie modyfikować i rozbudowywać ten projekt.
